@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\6Keywords\6Keywords\bin\Debug\6Keywords.exe.config
+E:\TCS\DPW\csharp\6Keywords\6Keywords\bin\Debug\6Keywords.exe
+E:\TCS\DPW\csharp\6Keywords\6Keywords\bin\Debug\6Keywords.pdb
+E:\TCS\DPW\csharp\6Keywords\6Keywords\obj\Debug\6Keywords.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\6Keywords\6Keywords\obj\Debug\6Keywords.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\6Keywords\6Keywords\obj\Debug\6Keywords.exe
+E:\TCS\DPW\csharp\6Keywords\6Keywords\obj\Debug\6Keywords.pdb

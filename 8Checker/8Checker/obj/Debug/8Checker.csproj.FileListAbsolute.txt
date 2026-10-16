@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\8Checker\8Checker\bin\Debug\8Checker.exe.config
+E:\TCS\DPW\csharp\8Checker\8Checker\bin\Debug\8Checker.exe
+E:\TCS\DPW\csharp\8Checker\8Checker\bin\Debug\8Checker.pdb
+E:\TCS\DPW\csharp\8Checker\8Checker\obj\Debug\8Checker.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\8Checker\8Checker\obj\Debug\8Checker.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\8Checker\8Checker\obj\Debug\8Checker.exe
+E:\TCS\DPW\csharp\8Checker\8Checker\obj\Debug\8Checker.pdb

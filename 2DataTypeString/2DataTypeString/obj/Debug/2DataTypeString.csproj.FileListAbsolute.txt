@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\2DataTypeString\2DataTypeString\bin\Debug\2DataTypeString.exe.config
+E:\TCS\DPW\csharp\2DataTypeString\2DataTypeString\bin\Debug\2DataTypeString.exe
+E:\TCS\DPW\csharp\2DataTypeString\2DataTypeString\bin\Debug\2DataTypeString.pdb
+E:\TCS\DPW\csharp\2DataTypeString\2DataTypeString\obj\Debug\2DataTypeString.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\2DataTypeString\2DataTypeString\obj\Debug\2DataTypeString.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\2DataTypeString\2DataTypeString\obj\Debug\2DataTypeString.exe
+E:\TCS\DPW\csharp\2DataTypeString\2DataTypeString\obj\Debug\2DataTypeString.pdb

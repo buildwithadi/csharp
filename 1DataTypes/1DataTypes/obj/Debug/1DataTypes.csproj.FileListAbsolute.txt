@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\1DataTypes\1DataTypes\bin\Debug\1DataTypes.exe.config
+E:\TCS\DPW\csharp\1DataTypes\1DataTypes\bin\Debug\1DataTypes.exe
+E:\TCS\DPW\csharp\1DataTypes\1DataTypes\bin\Debug\1DataTypes.pdb
+E:\TCS\DPW\csharp\1DataTypes\1DataTypes\obj\Debug\1DataTypes.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\1DataTypes\1DataTypes\obj\Debug\1DataTypes.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\1DataTypes\1DataTypes\obj\Debug\1DataTypes.exe
+E:\TCS\DPW\csharp\1DataTypes\1DataTypes\obj\Debug\1DataTypes.pdb

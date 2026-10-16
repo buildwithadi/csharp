@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\4BooleanDataType\4BooleanDataType\bin\Debug\4BooleanDataType.exe.config
+E:\TCS\DPW\csharp\4BooleanDataType\4BooleanDataType\bin\Debug\4BooleanDataType.exe
+E:\TCS\DPW\csharp\4BooleanDataType\4BooleanDataType\bin\Debug\4BooleanDataType.pdb
+E:\TCS\DPW\csharp\4BooleanDataType\4BooleanDataType\obj\Debug\4BooleanDataType.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\4BooleanDataType\4BooleanDataType\obj\Debug\4BooleanDataType.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\4BooleanDataType\4BooleanDataType\obj\Debug\4BooleanDataType.exe
+E:\TCS\DPW\csharp\4BooleanDataType\4BooleanDataType\obj\Debug\4BooleanDataType.pdb

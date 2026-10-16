@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\12ForLoop\12ForLoop\bin\Debug\12ForLoop.exe.config
+E:\TCS\DPW\csharp\12ForLoop\12ForLoop\bin\Debug\12ForLoop.exe
+E:\TCS\DPW\csharp\12ForLoop\12ForLoop\bin\Debug\12ForLoop.pdb
+E:\TCS\DPW\csharp\12ForLoop\12ForLoop\obj\Debug\12ForLoop.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\12ForLoop\12ForLoop\obj\Debug\12ForLoop.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\12ForLoop\12ForLoop\obj\Debug\12ForLoop.exe
+E:\TCS\DPW\csharp\12ForLoop\12ForLoop\obj\Debug\12ForLoop.pdb

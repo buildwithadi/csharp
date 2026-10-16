@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TCS\\DPW\\csharp\\5Operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7423CA-0E6F-496C-AD4F-6B5BCC5A17A6}|5Operators\\5Operators.csproj|e:\\tcs\\dpw\\csharp\\5operators\\5operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7423CA-0E6F-496C-AD4F-6B5BCC5A17A6}|5Operators\\5Operators.csproj|solutionrelative:5operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TCS\\DPW\\csharp\\5Operators\\5Operators\\Program.cs",
+              "RelativeDocumentMoniker": "5Operators\\Program.cs",
+              "ToolTip": "E:\\TCS\\DPW\\csharp\\5Operators\\5Operators\\Program.cs*",
+              "RelativeToolTip": "5Operators\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T02:41:29.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

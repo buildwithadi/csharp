@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\5Operators\5Operators\bin\Debug\5Operators.exe.config
+E:\TCS\DPW\csharp\5Operators\5Operators\bin\Debug\5Operators.exe
+E:\TCS\DPW\csharp\5Operators\5Operators\bin\Debug\5Operators.pdb
+E:\TCS\DPW\csharp\5Operators\5Operators\obj\Debug\5Operators.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\5Operators\5Operators\obj\Debug\5Operators.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\5Operators\5Operators\obj\Debug\5Operators.exe
+E:\TCS\DPW\csharp\5Operators\5Operators\obj\Debug\5Operators.pdb

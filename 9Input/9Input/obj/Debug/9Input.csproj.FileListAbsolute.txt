@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\9Input\9Input\bin\Debug\9Input.exe.config
+E:\TCS\DPW\csharp\9Input\9Input\bin\Debug\9Input.exe
+E:\TCS\DPW\csharp\9Input\9Input\bin\Debug\9Input.pdb
+E:\TCS\DPW\csharp\9Input\9Input\obj\Debug\9Input.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\9Input\9Input\obj\Debug\9Input.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\9Input\9Input\obj\Debug\9Input.exe
+E:\TCS\DPW\csharp\9Input\9Input\obj\Debug\9Input.pdb

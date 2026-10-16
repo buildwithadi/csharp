@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\13WhileLoop\13WhileLoop\bin\Debug\13WhileLoop.exe.config
+E:\TCS\DPW\csharp\13WhileLoop\13WhileLoop\bin\Debug\13WhileLoop.exe
+E:\TCS\DPW\csharp\13WhileLoop\13WhileLoop\bin\Debug\13WhileLoop.pdb
+E:\TCS\DPW\csharp\13WhileLoop\13WhileLoop\obj\Debug\13WhileLoop.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\13WhileLoop\13WhileLoop\obj\Debug\13WhileLoop.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\13WhileLoop\13WhileLoop\obj\Debug\13WhileLoop.exe
+E:\TCS\DPW\csharp\13WhileLoop\13WhileLoop\obj\Debug\13WhileLoop.pdb

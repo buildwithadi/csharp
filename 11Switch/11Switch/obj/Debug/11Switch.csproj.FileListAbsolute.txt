@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\11Switch\11Switch\bin\Debug\11Switch.exe.config
+E:\TCS\DPW\csharp\11Switch\11Switch\bin\Debug\11Switch.exe
+E:\TCS\DPW\csharp\11Switch\11Switch\bin\Debug\11Switch.pdb
+E:\TCS\DPW\csharp\11Switch\11Switch\obj\Debug\11Switch.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\11Switch\11Switch\obj\Debug\11Switch.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\11Switch\11Switch\obj\Debug\11Switch.exe
+E:\TCS\DPW\csharp\11Switch\11Switch\obj\Debug\11Switch.pdb

@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\7StoringUserData\7StoringUserData\bin\Debug\7StoringUserData.exe.config
+E:\TCS\DPW\csharp\7StoringUserData\7StoringUserData\bin\Debug\7StoringUserData.exe
+E:\TCS\DPW\csharp\7StoringUserData\7StoringUserData\bin\Debug\7StoringUserData.pdb
+E:\TCS\DPW\csharp\7StoringUserData\7StoringUserData\obj\Debug\7StoringUserData.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\7StoringUserData\7StoringUserData\obj\Debug\7StoringUserData.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\7StoringUserData\7StoringUserData\obj\Debug\7StoringUserData.exe
+E:\TCS\DPW\csharp\7StoringUserData\7StoringUserData\obj\Debug\7StoringUserData.pdb

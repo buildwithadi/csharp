@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\10Conditional\10Conditional\bin\Debug\10Conditional.exe.config
+E:\TCS\DPW\csharp\10Conditional\10Conditional\bin\Debug\10Conditional.exe
+E:\TCS\DPW\csharp\10Conditional\10Conditional\bin\Debug\10Conditional.pdb
+E:\TCS\DPW\csharp\10Conditional\10Conditional\obj\Debug\10Conditional.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\10Conditional\10Conditional\obj\Debug\10Conditional.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\10Conditional\10Conditional\obj\Debug\10Conditional.exe
+E:\TCS\DPW\csharp\10Conditional\10Conditional\obj\Debug\10Conditional.pdb

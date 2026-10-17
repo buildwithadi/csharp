@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\16FizzBuzz\16FizzBuzz\bin\Debug\16FizzBuzz.exe.config
+E:\TCS\DPW\csharp\16FizzBuzz\16FizzBuzz\bin\Debug\16FizzBuzz.exe
+E:\TCS\DPW\csharp\16FizzBuzz\16FizzBuzz\bin\Debug\16FizzBuzz.pdb
+E:\TCS\DPW\csharp\16FizzBuzz\16FizzBuzz\obj\Debug\16FizzBuzz.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\16FizzBuzz\16FizzBuzz\obj\Debug\16FizzBuzz.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\16FizzBuzz\16FizzBuzz\obj\Debug\16FizzBuzz.exe
+E:\TCS\DPW\csharp\16FizzBuzz\16FizzBuzz\obj\Debug\16FizzBuzz.pdb

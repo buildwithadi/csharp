@@ -14,10 +14,10 @@ namespace _16FizzBuzz
         3 = Fizz
         5 = Buzz
         else = number
-         */
+         FizzBuzz*/
         static void Main(string[] args)
         {
-            Console.Write("Enter a number: ");
+            Console.Write("Enter a numberr: ");
             string numInput = Console.ReadLine();
 
             if(int.TryParse(numInput, out int num))

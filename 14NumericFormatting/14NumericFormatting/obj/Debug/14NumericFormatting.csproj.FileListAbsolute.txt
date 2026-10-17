@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\14NumericFormatting\14NumericFormatting\bin\Debug\14NumericFormatting.exe.config
+E:\TCS\DPW\csharp\14NumericFormatting\14NumericFormatting\bin\Debug\14NumericFormatting.exe
+E:\TCS\DPW\csharp\14NumericFormatting\14NumericFormatting\bin\Debug\14NumericFormatting.pdb
+E:\TCS\DPW\csharp\14NumericFormatting\14NumericFormatting\obj\Debug\14NumericFormatting.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\14NumericFormatting\14NumericFormatting\obj\Debug\14NumericFormatting.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\14NumericFormatting\14NumericFormatting\obj\Debug\14NumericFormatting.exe
+E:\TCS\DPW\csharp\14NumericFormatting\14NumericFormatting\obj\Debug\14NumericFormatting.pdb

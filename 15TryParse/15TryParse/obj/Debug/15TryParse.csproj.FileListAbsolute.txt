@@ -1,0 +1,7 @@
+E:\TCS\DPW\csharp\15TryParse\15TryParse\bin\Debug\15TryParse.exe.config
+E:\TCS\DPW\csharp\15TryParse\15TryParse\bin\Debug\15TryParse.exe
+E:\TCS\DPW\csharp\15TryParse\15TryParse\bin\Debug\15TryParse.pdb
+E:\TCS\DPW\csharp\15TryParse\15TryParse\obj\Debug\15TryParse.csproj.AssemblyReference.cache
+E:\TCS\DPW\csharp\15TryParse\15TryParse\obj\Debug\15TryParse.csproj.CoreCompileInputs.cache
+E:\TCS\DPW\csharp\15TryParse\15TryParse\obj\Debug\15TryParse.exe
+E:\TCS\DPW\csharp\15TryParse\15TryParse\obj\Debug\15TryParse.pdb
